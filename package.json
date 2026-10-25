@@ -1,0 +1,20 @@
+{
+  "name": "iron-pit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Iron Pit — boxe hyper-réaliste dans le navigateur (Three.js)",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "shot": "node scripts/shot.mjs shots"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21",
+    "vite-plugin-singlefile": "^2.3.4"
+  }
+}
