@@ -22,3 +22,7 @@ tu juges uniquement le jeu réel, rendu, en train de tourner.
    ENSUITE: 2-3 écarts suivants, une ligne chacun
    CAPTURES: chemin du dossier
 Ne modifie aucun fichier du dépôt.
+
+Important : lance les captures au premier plan (pas en arrière-plan), attends qu'elles soient
+toutes finies et regardées avant de rendre ton verdict, et ne rends ton verdict qu'UNE fois.
+Arrête ton serveur preview avant de finir.
